@@ -389,14 +389,3 @@ textarea {
   -webkit-appearance: button; /* 1 */
   font: inherit; /* 2 */
 }
-
-body{
-	padding: 10px;
-}
-
-form, input {
-	padding: 0px 15px;
-    width : 200px;
-    margin: 0;
-    box-sizing: border-box;
-  }
