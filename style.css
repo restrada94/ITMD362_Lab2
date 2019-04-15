@@ -1,0 +1,16 @@
+body{
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+}
+
+form, input {
+	padding: 0px 15px;
+    width : 200px;
+    box-sizing: border-box;
+    margin: auto;
+  }
+
+  @media screen and (min-width: 600px) {
+
+  }
